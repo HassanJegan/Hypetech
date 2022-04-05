@@ -1,7 +1,9 @@
-# Hypetech
+hypetech
+========
+
 8 bit video game project
 
-A project tutorial I am following to create a classic 8 bit game.
+A project tutorial I am following to create a classic 8 bit game. 
 
 The tutorials can be found here http://www.youtube.com/playlist?list=PL8CAB66181A502179
 
